@@ -15,3 +15,9 @@ Certifique-se de instalar a biblioteca necessária executando o comando:
 
 ```bash
 pip install -r requirements.txt
+
+Depois, execute o jogo com:
+
+```bash
+python main.py
+```
